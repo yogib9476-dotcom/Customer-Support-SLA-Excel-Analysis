@@ -1,5 +1,6 @@
 # Customer Support SLA & Escalation Performance Analysis (Excel)
 <img width="1192" height="787" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/318fc37a-67bc-4fb5-9df2-6216e1a06d7d" />
+
 ## Project Overview
 An end-to-end operational analytics project evaluating **8,469 customer support tickets** across multiple channels and priority tiers. The objective is to identify Service Level Agreement (SLA) breach drivers, quantify financial penalty exposure, and provide actionable recommendations to improve resolution speed and Customer Satisfaction (CSAT).
 ## Business Questions Answered
