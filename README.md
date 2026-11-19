@@ -1,11 +1,7 @@
 # Customer Support SLA & Escalation Performance Analysis (Excel)
-![Dashboard Preview](dashboard_overview.png)
+<img width="1192" height="787" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/318fc37a-67bc-4fb5-9df2-6216e1a06d7d" />
 ## Project Overview
 An end-to-end operational analytics project evaluating **8,469 customer support tickets** across multiple channels and priority tiers. The objective is to identify Service Level Agreement (SLA) breach drivers, quantify financial penalty exposure, and provide actionable recommendations to improve resolution speed and Customer Satisfaction (CSAT).
-## Data Source
-* **Dataset:** *Customer Support Ticket Dataset* (`customer_support_tickets.csv`)
-* **Dataset Author:** Suraj Jha (Kaggle)
-* **Records Analyzed:** 8,469 customer support tickets across 5 issue categories and 4 communication channels
 ## Business Questions Answered
 1. What is the overall SLA compliance rate, open backlog volume, and total breach penalty exposure?
 2. Which ticket categories (`Billing`, `Cancellation`, `Technical`, `Refund`, `Product`) experience the highest SLA breach rates?
